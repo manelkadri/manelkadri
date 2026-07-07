@@ -124,9 +124,7 @@
   </a>
 </p>
 
-    </td>
-
-    <td width="50%" valign="top">
+   
 
 <h3>🛠️ CosmoShop Admin</h3>
 
@@ -147,7 +145,7 @@
   </a>
 </p>
 
-    </td>
+  
   </tr>
 
   <tr>
@@ -171,9 +169,6 @@
   <img src="https://img.shields.io/badge/Quantum%20ML-Research-purple?style=for-the-badge" />
 </p>
 
-    </td>
-
-    <td width="50%" valign="top">
 
 <h3>📊 Data & Dashboard Projects</h3>
 
@@ -187,7 +182,7 @@
   <img src="https://img.shields.io/badge/Dashboard-Modern%20UI-ff9bb3?style=for-the-badge" />
 </p>
 
-    </td>
+    
   </tr>
 </table>
 
