@@ -200,13 +200,13 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/AI-ML%20Platform-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Quantum-ML-purple?style=for-the-badge" />
+  <a href="https://neuro-space-teal.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Platform-NeuroSpace-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Platform-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Quantum%20ML-Research-purple?style=for-the-badge" />
 </p>
-
-    </td>
-
-    <td width="50%" valign="top">
 
 <h3>📊 Data & Dashboard Projects</h3>
 
