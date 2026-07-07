@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/GitHub-manelkadri-black?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="mailto:manelnourhene01@gmail.com">
+  <a href="mailto:maneb.kadri@univ-annaba.dz">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-ff6b8a?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -45,11 +45,11 @@
   </a>
 
   <a href="mailto:maneb.kadri@univ-annaba.dz">
-    <img src="https://img.shields.io/badge/University%20Email-maneb.kadri%40univ--annaba.dz-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Academic%20Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="mailto:Kadrimanel573@gmail.com">
-    <img src="https://img.shields.io/badge/Personal%20Email-Kadrimanel573%40gmail.com-ff6b8a?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Personal%20Email-Contact-ff6b8a?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -71,6 +71,15 @@
   <li>⚛️ Exploring Quantum Machine Learning through NeuroSpace</li>
   <li>🛍️ Creator of CosmoShop e-commerce platform</li>
 </ul>
+
+    </td>
+
+    <td width="40%" align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="250" alt="Developer Illustration" />
+
+    </td>
+  </tr>
 </table>
 
 <hr />
@@ -152,13 +161,13 @@
 </p>
 
 <p>
-  <a href="https://cosmoshop-client.vercel.app/">
+  <a href="https://cosmoshop-client.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-CosmoShop-ff9bb3?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/manelkadri/cosmoshop-client">
+  <a href="https://github.com/manelkadri/cosmoshop-client" target="_blank">
     <img src="https://img.shields.io/badge/Repository-GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -175,13 +184,13 @@
 </p>
 
 <p>
-  <a href="https://cosmoshop-admin-psi.vercel.app/">
+  <a href="https://cosmoshop-admin-psi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Admin-CosmoShop%20Admin-9b5cff?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/manelkadri/cosmoshop-admin">
+  <a href="https://github.com/manelkadri/cosmoshop-admin" target="_blank">
     <img src="https://img.shields.io/badge/Repository-GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -203,15 +212,22 @@
   <a href="https://neuro-space-teal.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Platform-NeuroSpace-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+</p>
 
+<p>
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Platform-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Quantum%20ML-Research-purple?style=for-the-badge" />
 </p>
 
+    </td>
+
+    <td width="50%" valign="top">
+
 <h3>📊 Data & Dashboard Projects</h3>
 
 <p>
-  Dashboards and data-driven applications with charts, statistics, database integration and modern UI design.
+  Dashboards and data-driven applications with charts, statistics,
+  database integration and modern UI design.
 </p>
 
 <p>
@@ -227,10 +243,30 @@
 
 <div align="center">
 
-  <h2>📊 GitHub Stats</h2>
+  <h2>📊 GitHub Overview</h2>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manelkadri&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manelkadri&layout=compact&theme=radical&hide_border=true" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manelkadri&theme=radical"
+    alt="GitHub Profile Summary"
+  />
+
+</div>
+
+<hr />
+
+<div align="center">
+
+  <h2>💻 Most Used Languages</h2>
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manelkadri&theme=radical"
+    alt="Repos Per Language"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manelkadri&theme=radical"
+    alt="Most Commit Language"
+  />
 
 </div>
 
@@ -240,7 +276,10 @@
 
   <h2>🔥 GitHub Streak</h2>
 
-  <img src="https://streak-stats.demolab.com?user=manelkadri&theme=radical&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=manelkadri&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
 
 </div>
 
@@ -266,19 +305,27 @@
 
   <h2>📫 Contact Me</h2>
 
-<p>
-  Feel free to connect with me for collaboration, projects, internships, or opportunities.
-</p>
+  <p>
+    Feel free to connect with me for collaboration, projects, internships, or opportunities.
+  </p>
 
-<p>
-  <a href="mailto:maneb.kadri@univ-annaba.dz">
-    <img src="https://img.shields.io/badge/Email-maneb.kadri%40univ--annaba.dz-ff6b8a?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <p>
+    <a href="mailto:maneb.kadri@univ-annaba.dz">
+      <img src="https://img.shields.io/badge/Academic%20Email-maneb.kadri%40univ--annaba.dz-ff6b8a?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
 
-  <a href="https://github.com/manelkadri">
-    <img src="https://img.shields.io/badge/GitHub-manelkadri-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+    <a href="mailto:Kadrimanel573@gmail.com">
+      <img src="https://img.shields.io/badge/Personal%20Email-Kadrimanel573%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+
+    <a href="https://github.com/manelkadri" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-manelkadri-black?style=for-the-badge&logo=github" />
+    </a>
+
+    <a href="https://www.linkedin.com/in/manel-kadri-aa24b23b1" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Manel%20Kadri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
 
 </div>
 
