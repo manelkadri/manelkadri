@@ -266,19 +266,19 @@
 
   <h2>📫 Contact Me</h2>
 
-  <p>
-    Feel free to connect with me for collaboration, projects, internships, or opportunities.
-  </p>
+<p>
+  Feel free to connect with me for collaboration, projects, internships, or opportunities.
+</p>
 
-  <p>
-    <a href="mailto:manelnourhene01@gmail.com">
-      <img src="https://img.shields.io/badge/Email-manelnourhene01@gmail.com-ff6b8a?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
+<p>
+  <a href="mailto:maneb.kadri@univ-annaba.dz">
+    <img src="https://img.shields.io/badge/Email-maneb.kadri%40univ--annaba.dz-ff6b8a?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-    <a href="https://github.com/manelkadri">
-      <img src="https://img.shields.io/badge/GitHub-manelkadri-black?style=for-the-badge&logo=github" />
-    </a>
-  </p>
+  <a href="https://github.com/manelkadri">
+    <img src="https://img.shields.io/badge/GitHub-manelkadri-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 </div>
 
