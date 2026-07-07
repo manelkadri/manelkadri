@@ -40,20 +40,16 @@
 <h2>🌐 Socials:</h2>
 
 <p>
-  <a href="https://facebook.com/TON_PROFIL" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://www.linkedin.com/in/manel-kadri-aa24b23b1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Manel%20Kadri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/TON_PROFIL" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="mailto:maneb.kadri@univ-annaba.dz">
+    <img src="https://img.shields.io/badge/University%20Email-maneb.kadri%40univ--annaba.dz-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/TON_PROFIL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:manelnourhene01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:Kadrimanel573@gmail.com">
+    <img src="https://img.shields.io/badge/Personal%20Email-Kadrimanel573%40gmail.com-ff6b8a?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
