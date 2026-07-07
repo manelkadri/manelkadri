@@ -71,9 +71,6 @@
   <li>⚛️ Exploring Quantum Machine Learning through NeuroSpace</li>
   <li>🛍️ Creator of CosmoShop e-commerce platform</li>
 </ul>
-
-    </td>
-  </tr>
 </table>
 
 <hr />
