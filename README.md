@@ -73,12 +73,6 @@
 </ul>
 
     </td>
-
-    <td width="40%" align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="250" alt="Developer Illustration" />
-
-    </td>
   </tr>
 </table>
 
