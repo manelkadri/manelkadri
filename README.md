@@ -313,18 +313,6 @@
     <a href="mailto:maneb.kadri@univ-annaba.dz">
       <img src="https://img.shields.io/badge/Academic%20Email-maneb.kadri%40univ--annaba.dz-ff6b8a?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-
-    <a href="mailto:Kadrimanel573@gmail.com">
-      <img src="https://img.shields.io/badge/Personal%20Email-Kadrimanel573%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-
-    <a href="https://github.com/manelkadri" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-manelkadri-black?style=for-the-badge&logo=github" />
-    </a>
-
-    <a href="https://www.linkedin.com/in/manel-kadri-aa24b23b1" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Manel%20Kadri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
   </p>
 
 </div>
