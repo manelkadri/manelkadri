@@ -105,6 +105,27 @@
   <tr>
     <td width="50%" valign="top">
 
+  <h3>☕ Menna Coffee</h3>
+
+<p>
+  A modern 3D coffee and restaurant website with a premium visual menu,
+  high-quality images, smooth animations, food categories, pizza sizes and prices.
+</p>
+
+<p>
+  <a href="https://menna-coffee.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Menna%20Coffee-8B5E3C?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/manelkadri/Menna-Coffee" target="_blank">
+    <img src="https://img.shields.io/badge/Repository-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<br />
+
 <h3>🛍️ CosmoShop Client</h3>
 
 <p>
